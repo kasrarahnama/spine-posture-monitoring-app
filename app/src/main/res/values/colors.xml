@@ -1,0 +1,10 @@
+<resources>
+    <color name="primary">#6A5AE0</color>
+    <color name="primary_dark">#5949C8</color>
+    <color name="accent">#FF5722</color>
+    <color name="good_green">#4CAF50</color>
+    <color name="bad_red">#E53935</color>
+    <color name="text_dark">#222222</color>
+    <color name="text_light">#777777</color>
+    <color name="bg_light">#F9F9FB</color>
+</resources>
